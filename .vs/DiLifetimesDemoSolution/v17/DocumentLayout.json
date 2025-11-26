@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\services\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\services\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\services\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\services\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\services\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\services\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\services\\ilifetimeservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\services\\ilifetimeservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|c:\\users\\karen hernandez\\dilifetimesdemosolution\\dilifetimesdemo\\dilifetimesdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6B3BD11-9D69-4D97-8AEA-8A271669BA7F}|DiLifetimesDemo\\DiLifetimesDemo.csproj|solutionrelative:dilifetimesdemo\\dilifetimesdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagnosticsController.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Controllers\\DiagnosticsController.cs",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\Controllers\\DiagnosticsController.cs",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Controllers\\DiagnosticsController.cs",
+              "RelativeToolTip": "DiLifetimesDemo\\Controllers\\DiagnosticsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:53:35.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Program.cs",
+              "RelativeToolTip": "DiLifetimesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:50:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingletonService.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\SingletonService.cs",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\Services\\SingletonService.cs",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\SingletonService.cs",
+              "RelativeToolTip": "DiLifetimesDemo\\Services\\SingletonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:50:25.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScopedService.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\ScopedService.cs",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\Services\\ScopedService.cs",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\ScopedService.cs",
+              "RelativeToolTip": "DiLifetimesDemo\\Services\\ScopedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:49:36.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransientService.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\TransientService.cs",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\Services\\TransientService.cs",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\TransientService.cs",
+              "RelativeToolTip": "DiLifetimesDemo\\Services\\TransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:49:04.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILifetimeService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\ILifetimeService.cs.cs",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\Services\\ILifetimeService.cs.cs",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\Services\\ILifetimeService.cs.cs",
+              "RelativeToolTip": "DiLifetimesDemo\\Services\\ILifetimeService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:47:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiLifetimesDemo",
+              "DocumentMoniker": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\DiLifetimesDemo.csproj",
+              "RelativeDocumentMoniker": "DiLifetimesDemo\\DiLifetimesDemo.csproj",
+              "ToolTip": "C:\\Users\\Karen Hernandez\\DiLifetimesDemoSolution\\DiLifetimesDemo\\DiLifetimesDemo.csproj",
+              "RelativeToolTip": "DiLifetimesDemo\\DiLifetimesDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T22:46:18.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
