@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "DiLifetimesDemo.Controllers.DiagnosticsController",
+    "Method": "GetLifetimes",
+    "RelativePath": "api/Diagnostics/lifetimes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

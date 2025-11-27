@@ -4,6 +4,19 @@
     "title": "DiLifetimesDemo",
     "version": "1.0"
   },
-  "paths": { },
+  "paths": {
+    "/api/Diagnostics/lifetimes": {
+      "get": {
+        "tags": [
+          "Diagnostics"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
   "components": { }
 }

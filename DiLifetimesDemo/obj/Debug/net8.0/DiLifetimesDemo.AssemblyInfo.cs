@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiLifetimesDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6bb9f5f4023833c2e56cde0a361d3bd35f71750")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiLifetimesDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiLifetimesDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

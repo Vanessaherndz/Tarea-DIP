@@ -33,3 +33,5 @@ C:\Users\Karen Hernandez\DiLifetimesDemoSolution\DiLifetimesDemo\obj\Debug\net8.
 C:\Users\Karen Hernandez\DiLifetimesDemoSolution\DiLifetimesDemo\obj\Debug\net8.0\DiLifetimesDemo.pdb
 C:\Users\Karen Hernandez\DiLifetimesDemoSolution\DiLifetimesDemo\obj\Debug\net8.0\DiLifetimesDemo.genruntimeconfig.cache
 C:\Users\Karen Hernandez\DiLifetimesDemoSolution\DiLifetimesDemo\obj\Debug\net8.0\ref\DiLifetimesDemo.dll
+C:\Users\Karen Hernandez\DiLifetimesDemoSolution\DiLifetimesDemo\obj\Debug\net8.0\DiLifetimesDemo.sourcelink.json
+C:\Users\Karen Hernandez\DiLifetimesDemoSolution\DiLifetimesDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

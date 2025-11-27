@@ -27,7 +27,7 @@ namespace DiLifetimesDemo.Controllers
         [HttpGet("lifetimes")]
         public ActionResult GetLifetimes()
         {
-            var identities = new List
+            var identities = new List<LifetimeIdentity>
             {
                 // 1. Instancias inyectadas en el constructor:
                 new() { Type = $"Controller {_transient1.GetIdentity().Type}", InstanceId = _transient1.GetIdentity().InstanceId },
@@ -41,4 +41,6 @@ namespace DiLifetimesDemo.Controllers
             return Ok(identities);
         }
     }
+
+
 }
